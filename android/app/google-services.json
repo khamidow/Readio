@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "79677877298",
+    "project_id": "flutter-practice-5ac37",
+    "storage_bucket": "flutter-practice-5ac37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79677877298:android:cfef4c6e4c6ba38651e02b",
+        "android_client_info": {
+          "package_name": "com.example.audio_pdf_book_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiLzQoCe_iCcupqo850pVUar_gxetEAYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79677877298:android:14d1e263e164a52b51e02b",
+        "android_client_info": {
+          "package_name": "com.example.contact_app_firebase_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiLzQoCe_iCcupqo850pVUar_gxetEAYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
