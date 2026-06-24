@@ -8,7 +8,7 @@
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
 
     <application
-        android:label="audio_pdf_book_flutter"
+        android:label="Readio"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
 
